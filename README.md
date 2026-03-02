@@ -1,10 +1,17 @@
 # 📌 ESP32 LED Toggle with Push Button
 Project sederhana menggunakan ESP32 buat mengontrol LED make tombol / sistem toggle (sekali teken nyala, teken lagi mati wkwk).
+
 ---
 
 
 # 🧠 Konsep
-project  ini pake: 
+project  ini pake:
+
+Saat tombol ditekan:
+- LED akan berubah status (ON → OFF / OFF → ON)
+- Tidak terjadi kedap-kedip
+- Menggunakan penyimpanan status sebelumnya
+
 ---
 
 # 🔧 Alat
