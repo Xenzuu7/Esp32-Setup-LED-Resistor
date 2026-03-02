@@ -6,7 +6,7 @@ project  ini pake:
 
 
 # 🔧 Alat
-Esp32 - Resistor - PushButton6mm
+- Esp32 - Resistor - PushButton6mm
 
 # Tutorial
 kalian bisa sign in dulu buat akun wokwi setelah itu masuk ke pojok kanan atas (profil) setelah itu klik "my project"
