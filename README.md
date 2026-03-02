@@ -21,7 +21,7 @@ Saat tombol ditekan:
 
 # Tutorial
 - kalian bisa sign in dulu buat akun wokwi setelah itu masuk ke pojok kanan atas (profil) setelah itu klik "my project"
-- ![tutorial ESP32](tutorial.jpg)
+- !(tutorial.jpg)
 - setelah itu klik "new project" nah abistu pilih esp32 yg sbelah kiri. Kalo udh ada 2 opsi itu "micropython" sama "arduino" disini pilih yg arduino"
 - setelah itu pencet icon + di kanan atas deket esp32, nah disitu tambahin Resistor, LED & Pushbutton 6mm.
 - nah abistu disitu buat LED nya dipencet aja trs diatas nnti ada tombol mirror buat balik, nah jdi posisi kaki si LED ini yg miring menghadap ke esp32.
