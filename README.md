@@ -56,26 +56,24 @@ Saat tombol ditekan:
 ## 💻 Source Code
 
 ```cpp
-int LED1 = 2;
-int tombol1 = 4;
-
+int LED1=2;
+int tombol1=4;
 bool statusTombol;
-bool statusLED = LOW;
-bool terakhir = HIGH;
-
+bool statusLED;
+bool terakhirnyala;
 void setup() {
+  Serial.begin(115200);
   pinMode(LED1, OUTPUT);
   pinMode(tombol1, INPUT_PULLUP);
 }
 
 void loop() {
   statusTombol = digitalRead(tombol1);
-
-  if (statusTombol == LOW && terakhir == HIGH) {
-    statusLED = !statusLED;
-    digitalWrite(LED1, statusLED);
+  if(statusTombol == HIGH && terakhirnyala == LOW){
+  statusLED = !statusLED;
+  digitalWrite(LED1, statusLED);
   }
-
-  terakhir = statusTombol;
+  terakhirnyala = statusTombol;
   delay(200);
+
 }
