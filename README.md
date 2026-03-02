@@ -49,7 +49,7 @@ Saat tombol ditekan:
 
 ## 📷 Preview
 
-![Tutorial](tutorial.jpg)
+![Tutorial](assets/tutorial.png)
 
 ---
 
