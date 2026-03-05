@@ -7,8 +7,6 @@ Project sederhana menggunakan ESP32 buat mengontrol LED menggunakan tombol denga
 
 ---
 
----
-
 ## 🧠 Konsep
 
 Pas tombol diteken:
