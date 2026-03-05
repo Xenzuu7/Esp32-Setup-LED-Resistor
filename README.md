@@ -28,6 +28,7 @@ Pas tombol diteken:
 1. Login / daftar akun di Wokwi.com 
 2. Klik profil (pojok kanan atas) → pilih **My Projects**
 3. Klik **New Project**
+   
    ![alt text](https://github.com/Xenzuu7/Esp32-Setup-LED-Resistor/blob/main/Public/Dasboardd.png?raw=true)
 
     ---  
