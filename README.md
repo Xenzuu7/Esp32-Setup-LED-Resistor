@@ -44,7 +44,7 @@ Pas tombol diteken:
 
 ## 📷 Preview
 
-![alt text](?raw=true)
+![alt text](https://github.com/Xenzuu7/Esp32-Setup-LED-Resistor/blob/main/Public/Screenshot%20(850).png?raw=true)
 
 ---
 
