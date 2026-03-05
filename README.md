@@ -3,8 +3,7 @@
 Project sederhana menggunakan ESP32 buat mengontrol LED menggunakan tombol dengan sistem toggle  
 (sekali tekan nyala, tekan lagi mati wkwkwk).
 
-![alt text](https://github.com/Xenzuu7/Esp32-Setup-LED-Resistor/blob/main/Public/finally.png
-?raw=true)
+![alt text](https://github.com/Xenzuu7/Esp32-Setup-LED-Resistor/blob/main/Public/finally.png?raw=true)
 
 ---
 
