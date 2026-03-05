@@ -34,6 +34,7 @@ Pas tombol diteken:
     ---  
 6. Pilih board **ESP32 (Arduino)**  
    > bakalan ada opsi tuh MicroPython dan Arduino — pilih Arduino
+
    ![alt text](https://github.com/Xenzuu7/Esp32-Setup-LED-Resistor/blob/main/Public/Opsi.png?raw=true)
 
    ---
