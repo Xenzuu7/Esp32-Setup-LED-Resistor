@@ -26,16 +26,19 @@ Pas tombol diteken:
 ## 📸 Tutorial Setup di Wokwi
 
 1. Login / daftar akun di Wokwi.com 
-2. Klik profil (pojok kanan atas) → pilih **My Projects**  
-3. Klik **New Project**  
-4. Pilih board **ESP32 (Arduino)**  
+2. Klik profil (pojok kanan atas) → pilih **My Projects**
+3. ![alt text](https://github.com/Xenzuu7/Esp32-Setup-LED-Resistor/blob/main/Public/Dasboardd.png?raw=true)
+
+    ---
+4. Klik **New Project**  
+5. Pilih board **ESP32 (Arduino)**  
    > bakalan ada opsi tuh MicroPython dan Arduino — pilih Arduino
-5. Klik ikon **+** di kanan atas
-6. Tambahin:
+6. Klik ikon **+** di kanan atas
+7. Tambahin:
    - Resistor
    - LED
    - Pushbutton 6mm
-7. Buat LED:
+8. Buat LED:
    - Klik LED
    - Gunakan tombol **Mirror**
    - Posisikan kaki miring menghadap ESP32
@@ -44,7 +47,7 @@ Pas tombol diteken:
 
 ## 📷 Preview
 
-![alt text](https://github.com/Xenzuu7/Esp32-Setup-LED-Resistor/blob/main/Public/Screenshot%20(850).png?raw=true)
+![alt text](https://github.com/Xenzuu7/Esp32-Setup-LED-Resistor/blob/main/Public/Dasboardd.png?raw=true)
 
 ---
 
