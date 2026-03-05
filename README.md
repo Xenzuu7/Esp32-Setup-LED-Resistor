@@ -1,20 +1,15 @@
 # 📌 ESP32 LED Toggle with Push Button
 
-Project sederhana menggunakan ESP32 untuk mengontrol LED menggunakan tombol dengan sistem toggle  
-(sekali tekan nyala, tekan lagi mati 😎).
+Project sederhana menggunakan ESP32 buat mengontrol LED menggunakan tombol dengan sistem toggle  
+(sekali tekan nyala, tekan lagi mati wkwkwk).
 
 ---
 
 ## 🧠 Konsep
 
-Project ini menggunakan:
-- INPUT_PULLUP
-- Deteksi perubahan status tombol (state change detection)
-- Penyimpanan status sebelumnya (history)
-
-Saat tombol ditekan:
-- LED akan berubah status (ON → OFF / OFF → ON)
-- Tidak terjadi kedap-kedip
+Pas tombol diteken:
+- LED bakalan berubah status (ON → OFF / OFF → ON)
+- Nggak terjadi kedap-kedip
 - Toggle berjalan stabil
 
 ---
@@ -30,17 +25,17 @@ Saat tombol ditekan:
 
 ## 📸 Tutorial Setup di Wokwi
 
-1. Login / daftar akun di Wokwi  
+1. Login / daftar akun di Wokwi.com 
 2. Klik profil (pojok kanan atas) → pilih **My Projects**  
 3. Klik **New Project**  
 4. Pilih board **ESP32 (Arduino)**  
-   > Akan ada opsi MicroPython dan Arduino — pilih Arduino
+   > bakalan ada opsi tuh MicroPython dan Arduino — pilih Arduino
 5. Klik ikon **+** di kanan atas
-6. Tambahkan:
+6. Tambahin:
    - Resistor
    - LED
    - Pushbutton 6mm
-7. Untuk LED:
+7. Buat LED:
    - Klik LED
    - Gunakan tombol **Mirror**
    - Posisikan kaki miring menghadap ESP32
@@ -49,7 +44,7 @@ Saat tombol ditekan:
 
 ## 📷 Preview
 
-![Tutorial](assets/tutorial.png)
+![alt text](?raw=true)
 
 ---
 
